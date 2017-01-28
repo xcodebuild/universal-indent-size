@@ -1,12 +1,12 @@
 ;;; universal-indent-size.el --- Set all indent size at once. -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2016 codefalling, Adam Niederer
+;; Copyright (C) 2016 codefalling
 
 ;; Author: codefalling <code.falling@gmail.com>
 ;; Keywords: indent
 
 ;; Version: 0.1
-;; Package-Requires: ((mmm-mode "0.5.4"))
+;; Package-Requires: 
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
